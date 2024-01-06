@@ -1,0 +1,18 @@
+1. web page: structure/layout(html), style(css), logic(javascript).
+2.  red happiness,passionate
+3.  blue stability, security.
+4. Document a style add korte hole css use korbo...
+5. selector er upor css code lekha hoi...
+6. ! diye auto generate hoya code k boile plate code bole...
+7. Emmet: short form diye html er boro boro code lekhe.. 
+8. CSS likhte property/vlaue pair use kora hoi.
+9. 3vabey CSS use kora jai..inline(tag er moddhe style="property:value;") likhhe, 
+                            Internal(head er mooddhe style tag er moddhe css style a likhe..)
+                            External(document er bahire alada css file kore link tag diye link kore dile)
+10. color property diye foreground a color a change kora jai...
+11. RGB,HEX use korbo color system a..
+12. Selectors:
+                a) Universal Selector... *{}
+                b) Class Selector... .myclass{}
+                c) Element Selector... h1{}
+                d) Id Selector... #myId
